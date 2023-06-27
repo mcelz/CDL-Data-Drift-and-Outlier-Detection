@@ -1,0 +1,9 @@
+run_desc:
+  name: data_drift_detection
+  author: CDL Outlier and Drift team
+  version: default
+  description: Finds whether drift occured based on stats tests.
+  dependencies: requirements.txt
+run_parameters:
+  chunk_size: 1
+  max_threshold: 40
