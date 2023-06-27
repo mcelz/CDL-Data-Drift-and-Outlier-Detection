@@ -20,7 +20,8 @@ Step into any of the following folders for more details:
 
 ## Project Structure
 <pre>
- ├── Concept Drift Detection
+│ 
+├── Concept Drift Detection
 │   ├── Readme.md
 │   ├── Semi-supervised_Concept_Drift.ipynb
 │   ├── drift_injection
