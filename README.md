@@ -1,5 +1,10 @@
 # CDL-Outlier-Drift-Detection-Practicum
 
+## Team Members
+Chunxue(April) Yang, Andrew Yaholkovsky, Ishu Kalra, Kiran Sheena, Yifei Wang
+
+## Objective
+
 The objective of this project was to develop efficient modules for outlier and drift detection in streaming data. Three distinct modules were created to accomplish this objective.
 
 1. The first module focuses on Concept Drift Detection, which arises when the relationship between dependent and independent variables undergoes changes over time. Multiple algorithms were developed within this module, utilizing both sliding and fixed windows. Importantly, these algorithms operate independently of the true label associated with the incoming data.
