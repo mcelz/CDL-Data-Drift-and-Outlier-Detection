@@ -18,9 +18,6 @@ Step into any of the following folders for more details:
  - [Data Drift Detection](/Data%20Drift%20Detection)
  - [Outlier Detection](/Outlier%20Detection)
 
-<br>
-<br>
-
 ## Project Structure
 <pre>
  ├── Concept Drift Detection
